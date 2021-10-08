@@ -1,0 +1,157 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: aqua;
+    text-align: center;
+}
+
+#First_Section img {
+    width: 500px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+#about_me p {
+    font-size: 20px;
+}
+
+#myNavbar {
+    background-color: black;
+}
+
+#Webpage_change {
+    background-color: yellow;
+    color: black;
+    font-size: 15px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+#Webpage_change:hover {
+    font-size: 19px;
+}
+}
+
+#email {
+    display: inline;
+    font-size: 25px;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.row {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+}
+
+#achievementsID {
+    padding-bottom: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.pro {
+    background-color: yellow;
+    border-right-width: 4px;
+    border-left-width: 4px;
+    border-right-color: black;
+    border-left-color: black;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-width: 2px;
+    border-bottom-width: 2px;
+    border-top-color: red;
+    border-bottom-color: red;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    color: black;
+
+}
+
+.pro i {
+    color: red;
+}
+
+
+
+.color_section {
+    padding-bottom: 10px;
+    background-color: coral;
+    border: 5px;
+    border-color: black;
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+
+#free {
+    background-color: lawngreen;
+}
+
+#myCarousel {
+    background-color: aqua;
+    border-bottom: 2px;
+    border-top: 2px;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-bottom-style: solid;
+    border-top-style: solid;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.left {
+    margin-left: 10px;
+}
+
+.right {
+    margin-right: 10px;
+}
+
+#about_me img {
+    width: 200px;
+    border-radius: 75px;
+}
+#apps_games img{
+    width: 200px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
