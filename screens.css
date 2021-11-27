@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: aqua;
+    background: linear-gradient(#00fffb 0%, #fbff00 100%);
     text-align: center;
 }
 
@@ -34,7 +34,6 @@ body {
 #Webpage_change:hover {
     font-size: 19px;
 }
-}
 
 #email {
     display: inline;
@@ -56,9 +55,6 @@ body {
     content: "";
     clear: both;
     display: table;
-}
-
-
 }
 
 #achievementsID {
